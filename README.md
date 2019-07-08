@@ -1,4 +1,4 @@
-# Logical Programming Task
+# Multi Modal Logic Task
 First task from the Logical Programming discipline. Interprets and solves the logical equations.
 
 ## Students
@@ -13,8 +13,8 @@ The available symbols for the logical equations are:
 - > ' v ' to 'or'
 - > ' ^ ' to 'and'
 - > ' ~ ' to 'denial'
-- > ' [] ' to 'for all'
-- > ' <> ' to 'exist'
+- > ' []a ' to 'for all neighbor with edge to it with a'
+- > ' <>a ' to 'exist neighbor with edge to it with a'
 
 The equations can be put in the direct way, because the program makes the conversion to polonese notation and executes it.
 
