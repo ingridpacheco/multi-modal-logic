@@ -1,8 +1,8 @@
 {
-  "name": "logica-em-programacao",
+  "name": "MultiModalLogic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ingridpacheco.github.io/multi-modal-logic/",
+  "homepage": "https://ingridpacheco.github.io/MultiModalLogic/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
